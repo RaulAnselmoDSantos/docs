@@ -17,8 +17,9 @@ npx create-docusaurus@latest my-website classic
 Start the site:
 ```bash
 cd my-website
+```
+```bash
 npx docusaurus start
-
 ```
 Open http://localhost:3000 and follow the tutorial.
 
