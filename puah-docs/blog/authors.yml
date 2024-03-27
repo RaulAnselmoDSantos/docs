@@ -1,20 +1,3 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
 
 rAnselmo:
   name: Raul Anselmo dos Santos
@@ -38,7 +21,7 @@ tCarvalho:
   name: Thays Carvalho de Lima
   title: UX/UI designer
   url: https://www.figma.com/files/user/1195051980961800278?fuid=1195051980961800278
-  image_url: https://www.img.com.br
+  image_url: https://media.licdn.com/dms/image/D4D03AQERiEYB_FBVsQ/profile-displayphoto-shrink_800_800/0/1682003982899?e=1717027200&v=beta&t=vF_TWUJaOW-sHh_JLVO1Yl1DbKLBed1odqAjLHF4yaw
 
 jOliveira:
   name: Jonas Oliveira dos Santos
@@ -57,3 +40,16 @@ rKeithi:
   title: Backend developer
   url: https://github.com/rogerkeithi
   image_url: https://avatars.githubusercontent.com/u/110481359?v=4 
+
+wChr:
+  name: Wagner Christos Korres Vinhato
+  title: Backend developer
+  url: https://github.com/wagnerchr
+  image_url: https://avatars.githubusercontent.com/u/88002748?v=4 
+
+tRaul:
+  name: Thomas Oliveira
+  title: UX/UI designer
+  url: https://www.figma.com/@thomasoliveira
+  image_url: https://s3-alpha.figma.com/profile/2198d335-a2ab-415b-9fe7-b3a7ddf7103d 
+

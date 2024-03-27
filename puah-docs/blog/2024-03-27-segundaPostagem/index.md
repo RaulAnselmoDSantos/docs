@@ -1,7 +1,7 @@
 ---
 slug: Segunda Postagem
 title: Nosso Time!
-authors: [rAnselmo, aLuiz, pVidal, tCarvalho, jOliveira, mGuirra, rKeithi]
+authors: [rAnselmo, aLuiz, pVidal, tCarvalho, jOliveira, mGuirra, rKeithi, wChr, tRaul, ]
 tags: [primeira, hello, docusaurus,]
 ---
 
