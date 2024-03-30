@@ -5,28 +5,28 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'SSAD',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/SSAD.svg').default,
     description: (
       <>
-        DESCRIÇÂO DO SSAD
+        Módulo web de gestão de protocolos. Este é o módulo do sistema usado pela Prefeitura para responder, tramitar, encaminhar e finalizar os protocolos criados pelos usuários
       </>
     ),
   },
   {
     title: 'APP-156',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/APP-156.svg').default,
     description: (
       <>
-        DESCIÇÂO DO APP 156
+        O App 156 é um aplicativo móvel que oferece acesso aos serviços públicos municipais, permitindo que os usuários solicitem serviços, façam reclamações e relatem problemas diretamente pelo celular.
       </>
     ),
   },
   {
     title: 'PORTAL 156',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        DESCRIÇÂO PORTAL 156
+        O Portal 156 é uma plataforma online para acesso aos serviços públicos municipais, permitindo que os usuários solicitem serviços, façam reclamações e relatem problemas à administração local.
       </>
     ),
   },

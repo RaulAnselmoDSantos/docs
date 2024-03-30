@@ -1,23 +1,55 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
 
 rAnselmo:
   name: Raul Anselmo dos Santos
   title: Suporte Ti
   url: https://github.com/RaulAnselmoDSantos
   image_url: https://github.com/RaulAnselmoDSantos.png
+
+aLuiz:
+ name: André Luíz Mesquita Silva
+ title: Programador
+ url: https://github.com/Andrelm2016
+ image_url: https://github.com/Andrelm2016.png 
+
+pVidal:
+  name: Pedro Vidal
+  title: Mobile Dev
+  url: https://github.com/CaptSchultz
+  image_url: https://avatars.githubusercontent.com/u/112434148?v=4 
+
+tCarvalho:
+  name: Thays Carvalho de Lima
+  title: UX/UI designer
+  url: https://www.figma.com/files/user/1195051980961800278?fuid=1195051980961800278
+  image_url: https://media.licdn.com/dms/image/D4D03AQERiEYB_FBVsQ/profile-displayphoto-shrink_800_800/0/1682003982899?e=1717027200&v=beta&t=vF_TWUJaOW-sHh_JLVO1Yl1DbKLBed1odqAjLHF4yaw
+
+jOliveira:
+  name: Jonas Oliveira dos Santos
+  title: Desenvolvedor, suporte e testes.
+  url: https://github.com/jonassantospuah
+  image_url: https://avatars.githubusercontent.com/u/123077361?v=4 
+
+mGuirra:
+  name: Matheus Guirra Vieira
+  title: Mobile Dev
+  url: https://github.com/GuirraMv
+  image_url: https://avatars.githubusercontent.com/u/102247460?s=400&u=4047dd208fe73edf8ec0a2438721e6de41bed0be&v=4 
+
+rKeithi:
+  name: Roger Keithi Nojiri da Silva
+  title: Backend developer
+  url: https://github.com/rogerkeithi
+  image_url: https://avatars.githubusercontent.com/u/110481359?v=4 
+
+wChr:
+  name: Wagner Christos Korres Vinhato
+  title: Backend developer
+  url: https://github.com/wagnerchr
+  image_url: https://avatars.githubusercontent.com/u/88002748?v=4 
+
+tRaul:
+  name: Thomas Oliveira
+  title: UX/UI designer
+  url: https://www.figma.com/@thomasoliveira
+  image_url: https://s3-alpha.figma.com/profile/2198d335-a2ab-415b-9fe7-b3a7ddf7103d 
+

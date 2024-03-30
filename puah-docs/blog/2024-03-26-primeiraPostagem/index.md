@@ -2,7 +2,7 @@
 slug: Primeira Postagem
 title: Primeira Postagem
 authors: [rAnselmo]
-tags: [primeira, hello, docusaurus,]
+tags: [primeira, hello, docusaurus]
 ---
 
 # Nossa Primeira postagem
