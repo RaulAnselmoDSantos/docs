@@ -4,29 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'SSAD',
+    title: 'OlheOleo',
     Svg: require('@site/static/img/SSAD.svg').default,
     description: (
       <>
-        Módulo web de gestão de protocolos. Este é o módulo do sistema usado pela Prefeitura para responder, tramitar, encaminhar e finalizar os protocolos criados pelos usuários
-      </>
-    ),
-  },
-  {
-    title: 'APP-156',
-    Svg: require('@site/static/img/APP-156.svg').default,
-    description: (
-      <>
-        O App 156 é um aplicativo móvel que oferece acesso aos serviços públicos municipais, permitindo que os usuários solicitem serviços, façam reclamações e relatem problemas diretamente pelo celular.
-      </>
-    ),
-  },
-  {
-    title: 'PORTAL 156',
-    Svg: require('@site/static/img/logo.svg').default,
-    description: (
-      <>
-        O Portal 156 é uma plataforma online para acesso aos serviços públicos municipais, permitindo que os usuários solicitem serviços, façam reclamações e relatem problemas à administração local.
+        OlheOleo é um aplicativo de gerenciamento de veículo que te ajuda a manter a menutenção
+        do seu carro em dia no posto de sua confiança.
       </>
     ),
   },

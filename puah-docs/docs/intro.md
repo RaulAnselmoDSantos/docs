@@ -2,17 +2,8 @@
 sidebar_position: 1
 ---
 
-# SSAD 1.0 Tutorial
+# Projeto OlheOleo
 
-Primeira versão do SSAD, **Documentação e Informações Importantes**.
+O Projeto OlheOleo é uma iniciativa inovadora desenvolvida por estudantes universitários com o objetivo de substituir as tradicionais etiquetas de papel colocadas nos para-brisas dos carros. A ideia principal por trás do projeto é promover uma alternativa mais sustentável e tecnologicamente avançada para o registro de informações veiculares.
 
-## Início
 
-Vamos começar !! Lembrando que a primeira versão do SSAD foi feita em C#.
-
-### O que você vai precisar
-
-- Primeiramente alguns itens para termos o C# em nossa maquina:
-  - Visual Comunity.
-
-....

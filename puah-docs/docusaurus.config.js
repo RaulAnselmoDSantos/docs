@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Puah Consultoria - Docs',
+  title: 'CJRT - Docs',
   tagline: 'Make with Dinosaurs',
   favicon: 'img/favicon.ico',
 
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Puah', // Usually your GitHub org/user name.
-  projectName: 'SSAD', // Usually your repo name.
+  organizationName: 'CJRT', // Usually your GitHub org/user name.
+  projectName: 'OlheOleo', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Puah Consultoria',
+        title: 'CJRT',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -74,27 +74,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'olheOleoSidebar',
             position: 'left',
-            label: 'SSAD',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Portal - 156',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'APP-156',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/Puah-Devops',
-            label: 'GitHub',
-            position: 'right',
+            label: 'OlheOleo',
           },
         ],
       },
@@ -109,8 +91,8 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Puah',
-                href: 'https://puah.com.br',
+                label: 'CJRT',
+                href: 'https://CJRT.com.br',
               },
             ],
           },
@@ -141,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Puah Consultoria Docs, LTDA. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CJRT Docs, LTDA. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
