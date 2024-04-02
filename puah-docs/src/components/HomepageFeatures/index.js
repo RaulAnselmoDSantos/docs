@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -17,7 +18,7 @@ const FeatureList = [
 
 function Feature({Svg, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--4 text--center')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -25,6 +26,11 @@ function Feature({Svg, title, description}) {
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
+      <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
+            Visitar {title}
+      </Link>
     </div>
   );
 }
