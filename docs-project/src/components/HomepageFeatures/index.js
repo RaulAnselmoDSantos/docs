@@ -6,7 +6,7 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'OlheOleo',
-    Svg: ('').default,
+    Svg: require('../../../static/img/logo.svg').default,
     description: (
       <>
         OlheOleo é um aplicativo de gerenciamento de veículo que te ajuda a manter a menutenção
@@ -20,7 +20,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4 text--center')}>
       <div className="text--center">
-        {/* <Svg className={styles.featureSvg} role="img" /> */}
+        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
@@ -28,7 +28,7 @@ function Feature({Svg, title, description}) {
       </div>
       <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/OlheOleo/">
             Visitar {title}
       </Link>
     </div>
