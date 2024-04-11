@@ -32,6 +32,7 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+    path: 'i18n',
   },
 
   presets: [
